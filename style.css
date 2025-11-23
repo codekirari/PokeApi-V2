@@ -1,0 +1,35 @@
+/* 1. Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* 2. Body */
+
+body {
+    background-color:#f4f6ff;
+    padding: 20px;
+    color: #333;
+}
+
+/* 3. Contenedor */
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+
+/* 4. Input y botones */
+
+#pokemonInput {
+    padding: 10px;
+    width: 20%;
+    font-size: 16px;
+}
+
+
+/* 5. Resultado del Pokémon */
+
+
+
+/* 6. Favoritos */
+
